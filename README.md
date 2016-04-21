@@ -13,31 +13,31 @@ More information on the Thr0w Project:
 
 <https://github.com/larkintuckerllc/thr0w-server>
 
-This repository provides a list of contributed modules.
+This repository provides a list of contributed Thr0w modules.
 
 ## Modules
 
-*Thr0w Draw*
+**Thr0w Draw**
 
 This repository provides a Thr0w module to provide a top drawing layer.
 
 <https://github.com/larkintuckerllc/thr0w-draw>
 
-*Thr0w Leaflet*
+**Thr0w Leaflet**
 
 This repository provides a Thr0w module to create interactive maps using
 the Leaflet library.
 
 <https://github.com/larkintuckerllc/thr0w-leaflet>
 
-*Thr0w SVG*
+**Thr0w SVG**
 
 This repository provides a Thr0w module to create interactive scalable vector
 graphics (SVGs).
 
 <https://github.com/larkintuckerllc/thr0w-svg>
 
-*Thr0w Windows*
+**Thr0w Windows**
 
 This repository provides a Thr0w module to create stacked movable /
 scrollable windows.
