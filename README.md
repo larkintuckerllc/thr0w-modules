@@ -1,4 +1,4 @@
-README v0.0.1 / 21 APRIL 2016
+README v0.0.2 / 13 MAY 2016
 
 # Thr0w Modules
 
@@ -29,6 +29,13 @@ This repository provides a Thr0w module to create interactive maps using
 the Leaflet library.
 
 <https://github.com/larkintuckerllc/thr0w-leaflet>
+
+**Thr0w PDF**
+
+This repository provides a Thr0w module to create interactive Portable Document
+Format (PDF) files.
+
+<https://github.com/larkintuckerllc/thr0w-pdf>
 
 **Thr0w SVG**
 
