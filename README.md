@@ -44,6 +44,13 @@ graphics (SVGs).
 
 <https://github.com/larkintuckerllc/thr0w-svg>
 
+**Thr0w Video**
+
+This repository provides a Thr0w module to display HTML5 video across
+multiple screens.
+
+<https://github.com/larkintuckerllc/thr0w-video>
+
 **Thr0w Windows**
 
 This repository provides a Thr0w module to create stacked movable /
